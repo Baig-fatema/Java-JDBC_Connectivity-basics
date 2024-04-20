@@ -1,4 +1,4 @@
-# Java-JDBC_Connectivity-basics
+# Hospital_Managment usign java and sql
 JDBC Connectivity basic program using java sql packages and classes
 before excuting this program
 - you need to download JDK on your local machine
